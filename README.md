@@ -1,2 +1,2 @@
 # OCTANET_JUNE
-I developed this website (international Travel Agency) using html, CSS.
+INTERNATIONAL TRAVEL AGENCY landing page using html, CSS
